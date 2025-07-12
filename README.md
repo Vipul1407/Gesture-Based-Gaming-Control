@@ -224,8 +224,6 @@ We welcome contributions to make InteractEase even better!
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/relan1997/InteractEaseGaming/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/relan1997/InteractEaseGaming/discussions)
 - **Email**: Contact through GitHub profile
 
 ## 📄 License
